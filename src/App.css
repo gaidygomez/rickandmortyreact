@@ -21,6 +21,10 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  background-image: url('assets/img/back-rick.jpg');
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
 }
 
 .App-link {
